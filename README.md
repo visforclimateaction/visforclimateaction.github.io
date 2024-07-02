@@ -98,7 +98,7 @@ For some of these questions, we can start from the techniques and knowledge we h
 This workshop builds on the [2022 Viz4Climate workshop at IEEE VIS 2022](https://svs.gsfc.nasa.gov/Viz4Climate/2022/), co-organized by Helen-Nicole Kostis, Mark SubbaRao, and Marlen Promann.
 
 ## Organizers and Contact
-Main contact: benjamin.bach@inria.fr
+Main contact: [benjamin.bach@inria.fr](mailto:benjamin.bach@inria.fr)
 - Benjamin Bach, Inria & The University of Edinburgh, France / United Kingdom
 - Fanny Chevalier, University of Toronto, Canada
 - Helen-Nicole Kostis, NASA/GSFC & USRA/EfSI, USA
