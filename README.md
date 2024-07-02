@@ -13,6 +13,8 @@ This is a hybrid workshop: you can present and attend online or in person provid
 Please cite this work proposal as the following:
 _Bach, Chevalier, Kostis, Subbaro, Jansen, Soden: IEEE VIS Workshop on Visualization for Climate Action and Sustainability, IEEE VIS Conference 2024, St. Pete Beach, FL_
 
+<img width="1272" alt="logos" src="https://github.com/visforclimateaction/visforclimateaction.github.io/assets/1230497/61606674-9f64-4470-86a5-cc43d3c00e8f">
+
 ### Workshop Goals
 - C**ollect research, case studies, examples, and experiences** around working with visualization in the broad area of climate and sustainability. See our submission types below and submit your latest work.
 - **Discuss and explore the potential of how visualization knowledge and research** can help address issues around climate change and sustainability by supporting stakeholders in monitoring, decision making, communication, education and advocacy.
