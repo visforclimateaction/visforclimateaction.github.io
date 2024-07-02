@@ -1,5 +1,6 @@
+_(This is a backup copy of the [original workhop website](https://svs.gsfc.nasa.gov/events/2024/Viz4ClimateAndSustainability) in case that website does not render in your browser. Both websites are kept up to date)_ 
+
 <img width="1284" alt="nasa-wall" src="https://github.com/visforclimateaction/visforclimateaction.github.io/assets/1230497/f547b07c-4a44-4b85-b601-1a2a94c2a8fe">
-(This is a backup copy of the [original workhop website](https://svs.gsfc.nasa.gov/events/2024/Viz4ClimateAndSustainability) in case that website does not render in your browser.) 
 
 # Viz4Climate + Sustainability: IEEE VIS 2024 Workshop on Visualization for Climate Action and Sustainability
 Half-day hybrid workshop on October 14th, 2024: Morning
