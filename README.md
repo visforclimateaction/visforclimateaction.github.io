@@ -1,3 +1,5 @@
+<img width="1284" alt="nasa-wall" src="https://github.com/visforclimateaction/visforclimateaction.github.io/assets/1230497/f547b07c-4a44-4b85-b601-1a2a94c2a8fe">
+
 # Viz4Climate + Sustainability: IEEE VIS 2024 Workshop on Visualization for Climate Action and Sustainability
 Half-day hybrid workshop on October 14th, 2024: Morning
 [IEEE Vis 2024 Conference](https://ieeevis.org),
