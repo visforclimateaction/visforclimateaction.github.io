@@ -58,7 +58,7 @@ Submission times are midnight Anywhere On Earth (AOE).
 - June 10th, 2024 June 13th, 2024: Submission deadline extended
 - July 1st, 2024: Review deadline
 - July 10th, 2024: Author notifications
-- July 25th, 2024: Submission camera-ready deadline
+- July 31st, 2024: Submission camera-ready deadline
 
 ### Late submission: Only short papers, demos, pictorials (no research papers)
 - July 31st, 2024: Submissions deadline
