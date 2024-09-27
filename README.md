@@ -39,14 +39,14 @@ The workshop will happen on October 14th, 2024 in the morning, FL local time. Ex
 #### Topic 1: Storytelling and Communication
 - __[Local Climate Data Stories: Data-driven Storytelling to Communicate Effects and Mitigation of Climate Change in a Local Context](https://visforclimateaction.github.io/papers/1008-doc.pdf)__: _Fabian Beck, Lukas Panzer, Marc Redepenning_
 - __[Data Comics for Climate Change](https://visforclimateaction.github.io/papers/1034-doc.pdf)__: _Zezhong Wang, Stephan Gruber, Claire Herbert, Zandria Sarrazin, Michelle Levy, Sheelagh Carpendale_
-- [REMOTE] __[Designing Visualisations for Enhancing Carbon Numeracy](https://visforclimateaction.github.io/papers/1039-doc.pdf)__: _Katerina Batziakoudi, Florent Cabric, Stephanie Rey, Jean-Daniel Fekete_
+- __[Designing Visualisations for Enhancing Carbon Numeracy](https://visforclimateaction.github.io/papers/1039-doc.pdf)__: _Katerina Batziakoudi, Florent Cabric, Stephanie Rey, Jean-Daniel Fekete_
 - _Questions, answers, and discussion_
 
 
 #### Topic 2: Immersive & Tangible
-- [REMOTE] __[Eco-Garden: A Data Sculpture to Encourage Sustainable Practices in Everyday Life in Households](https://visforclimateaction.github.io/papers/1018-doc.pdf)__: _Dushani Perera, Nervo Verdezoto Dias, Simon Lannon, Julie Gwilliam,Parisa Eslambolchilar_
-- [REMOTE] __[Designing Earth Mission Control: An Immersive Data Visualization Tool for Climate Communication and Decision-Making](https://visforclimateaction.github.io/papers/1020-doc.pdf)__: _Minoo Rathnasabapathy, Rachel Connolly, Phillip Cherner, Jaden Palmer, Dava Newman, Mark SubbaRao_
-- [REMOTE] __[AwARe: Using handheld augmented reality for researching the potential of food resource information visualization](https://visforclimateaction.github.io/papers/1023-doc.pdf)__: _Nina Rosa_
+- __[Eco-Garden: A Data Sculpture to Encourage Sustainable Practices in Everyday Life in Households](https://visforclimateaction.github.io/papers/1018-doc.pdf)__: _Dushani Perera, Nervo Verdezoto Dias, Simon Lannon, Julie Gwilliam,Parisa Eslambolchilar_
+- __[Designing Earth Mission Control: An Immersive Data Visualization Tool for Climate Communication and Decision-Making](https://visforclimateaction.github.io/papers/1020-doc.pdf)__: _Minoo Rathnasabapathy, Rachel Connolly, Phillip Cherner, Jaden Palmer, Dava Newman, Mark SubbaRao_
+- __[AwARe: Using handheld augmented reality for researching the potential of food resource information visualization](https://visforclimateaction.github.io/papers/1023-doc.pdf)__: _Nina Rosa_
 - _Questions, answers, and discussion_
 
 ### COFFEE 
@@ -55,15 +55,15 @@ The workshop will happen on October 14th, 2024 in the morning, FL local time. Ex
 
 #### Topic 3: Analytics & Transparency
 - __[Interactive Visualization of Ensemble Data Assimilation Forecasts for Freshwater Floods](https://visforclimateaction.github.io/papers/1033-doc.pdf)__: _Ameya Patil, Marlee Smith, Helen Kershaw, Moha El Gharamti_
-- __[Urban Computing for Climate And Environmental Justice: Early Perspectives From Two Research Initiatives](https://visforclimateaction.github.io/papers/038-doc.pdf)__: _Carolina Veiga, Ashish Sharma, Daniel de Oliveira, Marcos Lage, Fabio Miranda_
-- __[Exploring the Reproducibility for Visualization Figures in Climate Change Report](https://visforclimateaction.github.io/papers/1008-doc.pdf)__: _Lu Ying, Yingcai Wu, Jean-Daniel Fekete_
+- __[Urban Computing for Climate And Environmental Justice: Early Perspectives From Two Research Initiatives](https://visforclimateaction.github.io/papers/1038-doc.pdf)__: _Carolina Veiga, Ashish Sharma, Daniel de Oliveira, Marcos Lage, Fabio Miranda_
+- __[Exploring the Reproducibility for Visualization Figures in Climate Change Report](https://visforclimateaction.github.io/papers/1040-doc.pdf)__: _Lu Ying, Yingcai Wu, Jean-Daniel Fekete_
 - _Questions, answers, and discussion_
 
 #### Topic 4: People, Art, and Engagement
 - __[Cultivating Climate Action Through Multi-Institutional Collaboration: Innovative Data Visualization Educational Programs and Exhibits for Public Engagement](https://visforclimateaction.github.io/papers/1024-doc.pdf)__:_Beth Altringer Eagle, Elisabeth Sylvan_
-- __[Harnessing Visualization for Climate Action and Sustainable Future](https://visforclimateaction.github.io/papers/1010--doc.pdf)__: _Narges Mahyar_
+- __[Harnessing Visualization for Climate Action and Sustainable Future](https://visforclimateaction.github.io/papers/1010-doc.pdf)__: _Narges Mahyar_
 - __[Artists, Data and Climate Change: Distilled messages, multiple entry points, layered metaphor](https://visforclimateaction.github.io/papers/1029-doc.pdf)__: _Francesca Samsel, Bruce Campbell_
-- [REMOTE] __[EcoViz: co-designed environmental data visualizations to communicate ecosystem impacts, inform management, and envision solutions](https://visforclimateaction.github.io/papers/1011-doc.pdf)__: _Jessica Kendall-Bar, Isaac Nealey, Ian Costello, Christopher Lowrie, Kevin Huynh Nguyen, Paul J. Ponganis, Michael W. Beck, Iklay Altintas_
+- __[EcoViz: co-designed environmental data visualizations to communicate ecosystem impacts, inform management, and envision solutions](https://visforclimateaction.github.io/papers/1011-doc.pdf)__: _Jessica Kendall-Bar, Isaac Nealey, Ian Costello, Christopher Lowrie, Kevin Huynh Nguyen, Paul J. Ponganis, Michael W. Beck, Iklay Altintas_
 - _Questions, answers, and discussion_
 
 #### Closing (10-15min)
