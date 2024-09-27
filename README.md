@@ -27,6 +27,37 @@ _Bach, Chevalier, Kostis, Subbaro, Jansen, Soden: IEEE VIS Workshop on Visualiza
 
 Besides brief presentations of the accepted submissions, the workshop aims to mostly focus on discussions and planning research through novel collaborations.
 
+## PROGRAM 
+
+### SESSION 1
+
+#### Topic 1: Storytelling and Communication
+- __Local Climate Data Stories: Data-driven Storytelling to Communicate Effects and Mitigation of Climate Change in a Local Context__: _Fabian Beck, Lukas Panzer, Marc Redepenning_
+- __Data Comics for Climate Change__
+- [REMOTE] __Designing Visualisations for Enhancing Carbon Numeracy__
+
+#### Topic 2: Immersive & Tangible
+- [REMOTE] __Eco-Garden: A Data Sculpture to Encourage Sustainable Practices in Everyday Life in Households__
+- [REMOTE] __Designing Earth Mission Control: An Immersive Data Visualization Tool for Climate Communication and Decision-Making__
+- [REMOTE] __AwARe: Using handheld augmented reality for researching the potential of food resource information visualization__
+
+### COFFEE 
+
+### SESSION 2: 
+
+#### Topic 3: Analytics & Transparency
+- __Interactive Visualization of Ensemble Data Assimilation Forecasts for Freshwater Floods__
+- __Urban Computing for Climate And Environmental Justice: Early Perspectives From Two Research Initiatives__
+- __Exploring the Reproducibility for Visualization Figures in Climate Change Report__
+
+#### Topic 4: People, Art, and Engagement
+- __Cultivating Climate Action Through Multi-Institutional Collaboration: Innovative Data Visualization Educational Programs and Exhibits for Public Engagement__
+- __Harnessing Visualization for Climate Action and Sustainable Future__
+- __Artists, Data and Climate Change: Distilled messages, multiple entry points, layered metaphor__
+- [REMOTE] __EcoViz: co-designed environmental data visualizations to communicate ecosystem impacts, inform management, and envision solutions__
+
+
+
 
 ## Submissions
 The submission portal is now open! Submissions are sent through the VIS 2024 conference system. In order to submit, please do the following:
