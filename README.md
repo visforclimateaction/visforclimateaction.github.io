@@ -69,8 +69,7 @@ The workshop will happen on October 14th, 2024 in the morning, FL local time. Ex
 #### Closing (10-15min)
 
 
-
-
+<!--
 ## Submissions
 The submission portal is now open! Submissions are sent through the VIS 2024 conference system. In order to submit, please do the following:
 
@@ -106,7 +105,7 @@ Submission times are midnight Anywhere On Earth (AOE).
 ### Late submission: Only short papers, demos, pictorials (no research papers)
 - July 31st, 2024: Submissions deadline
 - August 31st, 2024: Author notifications
-
+-->
 
 ## Topics and Questions
 The large scope and complex nature of the multi-faceted problem of visualization for climate action and sustainability is best addressed in an half-day dedicated, informal, interactive workshop that brings together diverse contributions, viewpoints, and reflections on the topic, followed by discussions.
@@ -129,13 +128,6 @@ The workshop encourages submissions around a broad variety of topics, challenges
 
 For some of these questions, we can start from the techniques and knowledge we have gained about visualization in general—others might require entirely new ways of thinking across information visualization, scientific visualization, analytics, illustration, information design, human-computer interaction, education, cognition, etc. Addressing these questions can lead to guidelines, collaborative platforms, visualization principles and techniques, toolkits, method- ologies, visualization activities, analysis methods, interactive spaces and experiences, games, and potentially many more.
 
-
-## Tentative Schedule
-- Session 1 (before break; 1hr, 15m) -- Welcome and Scoping (10min), followed by lightning presentations (3m each) of accepted submissions / installations. Questions and answers will follow presentations.
-- Session 2 (after break; 1hr, 15m) -- Brief introductions to get in person and remote participants to get acquainted with other attendees. Form discussion groups around topics proposed by the organizers and the audience. Each - - - discussion group is moderated by one of the organizers.
-  - How to build immersive spaces and experiences for climate storytelling?
-  - How to raise climate education, awareness and change behavior on a personal level?
-  - How to support sustainability monitoring, community engagement, and participatory decision making?
 
 ## Workshop History
 This workshop builds on the [2022 Viz4Climate workshop at IEEE VIS 2022](https://svs.gsfc.nasa.gov/Viz4Climate/2022/), co-organized by Helen-Nicole Kostis, Mark SubbaRao, and Marlen Promann.
