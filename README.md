@@ -139,12 +139,11 @@ Main contact: [benjamin.bach@inria.fr](mailto:benjamin.bach@inria.fr)
 - Helen-Nicole Kostis, NASA/GSFC & USRA/EfSI, USA
 - Mark SubbaRao, NASA/GSFC, USA
 - Yvonne Jansen, CNRS, France
-- Robert Sonden, University of Toronto, Canada
+- Robert Soden, University of Toronto, Canada
 
 ## International Programme Committee
 - Arnaud Prouzeaux, Inria
 - Cee Nell, U.S. Geological Survey
-- Daniel Sauter, New School, Parsons School of Design
 - Francesca Samsel, University of Texas at Austin
 - Isabel Meirelles, OCAD University
 - Kalina Borkiewicz, University of Utah & New York Times
